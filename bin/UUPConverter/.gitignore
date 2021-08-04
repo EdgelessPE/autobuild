@@ -1,0 +1,13 @@
+# https://uupdump.net/get.php?id=%_UpdateId%&pack=zh-cn&edition=professional&aria2=2
+
+UUPs
+temp
+bin
+files/aria2_script.*
+ISOFOLDER
+*.log
+convert-UUP.cmd
+create_virtual_editions.cmd
+multi_arch_iso.cmd
+.scriptUrl
+*.iso
