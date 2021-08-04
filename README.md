@@ -1,4 +1,4 @@
-# [WIP] autobuild
+# [WIP] buildbot
 Edgeless 自动构建机器人
 
 ## 画饼
