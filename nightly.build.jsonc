@@ -1,0 +1,29 @@
+[
+  {
+    "builder": {
+      "download_url": "https://github.com/slorelee/wimbuilder2/releases/download/v2021.06.06/WimBuilder2-Full.v2021-06-06.7z",
+      "build_params": [
+        "--build",
+        "--verbose",
+        "--close-ui",
+        "--wait",
+        "--preset",
+        "edgeless",
+        "--source-wim",
+        "{source_install_wim}",
+        "--source-index",
+        "1"
+      ]
+    },
+    "version": {
+      "base_ver": "3.2.0",
+      "branch": "Nightly",
+      "ver_string": "Edgeless_{branch}_{base_ver}-{time}"
+    },
+    "source": {
+      "type": "keyword",
+      "keyword": "Windows 10 Version 21H2",
+      "arch": "amd64"
+    }
+  }
+]
